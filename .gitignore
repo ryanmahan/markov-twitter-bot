@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# using for tweet and fb message storage
+*.txt
+*.csv
+*.html
+*.json
+.vscode
+
+# used for storing the trained chains
+*.pkl
+
